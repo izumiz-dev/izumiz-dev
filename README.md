@@ -1,4 +1,9 @@
-### Hi there 👋
+### Profile
+
+[![izumiz-dev's github stats](https://github-readme-stats.vercel.app/api?username=izumiz-dev)](https://github.com/izumiz-dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izumiz-dev)](https://github.com/izumiz-dev)
+
+I'm graduation research is to develop and evaluate software that supports programming beginner or intermediator learn to make a program with components.
 
 <!--
 **izumiz-dev/izumiz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
